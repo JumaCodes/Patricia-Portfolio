@@ -1,9 +1,9 @@
-# Design & Branding Portfolio — Minimal Theme
+# Portfolio — Minimal Theme
 
 This is a responsive, accessible portfolio site in a white/grey/black, light, classic, minimal style.
 
 ## How to use
-1. Unzip the download.
+1. clone the download.
 2. Open `index.html` in your browser to preview.
 3. Replace images with your own (search `index.html` for the `img` tags).
 4. Edit text directly in `index.html`.
